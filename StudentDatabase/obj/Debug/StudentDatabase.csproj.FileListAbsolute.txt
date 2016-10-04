@@ -1,0 +1,12 @@
+C:\Users\Deepak\documents\visual studio 2015\Projects\StudentDatabase\StudentDatabase\obj\Debug\StudentDatabase.Properties.Resources.resources
+C:\Users\Deepak\documents\visual studio 2015\Projects\StudentDatabase\StudentDatabase\obj\Debug\StudentDatabase.csproj.GenerateResource.Cache
+C:\Users\Deepak\documents\visual studio 2015\Projects\StudentDatabase\StudentDatabase\bin\Debug\StudentDatabase.exe.config
+C:\Users\Deepak\documents\visual studio 2015\Projects\StudentDatabase\StudentDatabase\bin\Debug\StudentDatabase.exe
+C:\Users\Deepak\documents\visual studio 2015\Projects\StudentDatabase\StudentDatabase\bin\Debug\StudentDatabase.pdb
+C:\Users\Deepak\documents\visual studio 2015\Projects\StudentDatabase\StudentDatabase\bin\Debug\MySql.Data.dll
+C:\Users\Deepak\documents\visual studio 2015\Projects\StudentDatabase\StudentDatabase\bin\Debug\MySql.Data.xml
+C:\Users\Deepak\documents\visual studio 2015\Projects\StudentDatabase\StudentDatabase\obj\Debug\StudentDatabase.exe
+C:\Users\Deepak\documents\visual studio 2015\Projects\StudentDatabase\StudentDatabase\obj\Debug\StudentDatabase.pdb
+C:\Users\Deepak\documents\visual studio 2015\Projects\StudentDatabase\StudentDatabase\obj\Debug\StudentDatabase.AddStudent.resources
+C:\Users\Deepak\documents\visual studio 2015\Projects\StudentDatabase\StudentDatabase\obj\Debug\StudentDatabase.csprojResolveAssemblyReference.cache
+C:\Users\Deepak\documents\visual studio 2015\Projects\StudentDatabase\StudentDatabase\obj\Debug\StudentDatabase.ViewStudentData.resources
